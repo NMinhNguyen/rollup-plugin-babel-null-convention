@@ -1,0 +1,17 @@
+{
+  "name": "rollup-plugin-babel-null-convention",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "repository": "https://github.com/NMinhNguyen/rollup-plugin-babel-null-convention.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@babel/core": "7.0.0-beta.42",
+    "@babel/preset-env": "7.0.0-beta.42",
+    "rollup": "^0.52.1",
+    "rollup-plugin-babel": "4.0.0-beta.2",
+    "rollup-plugin-node-resolve": "^2.1.1"
+  }
+}
